@@ -1,19 +1,6 @@
 import React from 'react'
 import './Style.css'
 
-// export default function Plan(props){
-//     //console.log(props);
-//     return(
-//         <div class="block">
-//             <h3>{props.name}</h3>
-//             <h1>{props.price}</h1>
-//             <p>{props.limit}</p>
-//             <p>{props.min}</p>
-//             <p>{props.gb}</p>
-//             <center><button>{props.button}</button></center>
-//         </div>
-//     )
-// }
 
 export default function Plan(props) {
     return (
